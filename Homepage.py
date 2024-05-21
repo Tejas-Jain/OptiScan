@@ -14,7 +14,7 @@ diagnoser_tool = current_dir / "pages" / "4_🔬_Diagnoser.py"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "OptiScan | Eye disease classifier"
-PAGE_ICON = ":eye:"
+PAGE_ICON = ":eye:" 
 PAGE_COLOR="dark"
 NAME = "OptiScan"
 DESCRIPTION = """
